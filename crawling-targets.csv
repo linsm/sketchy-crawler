@@ -1,0 +1,7 @@
+repository_url,owner,repository_name,since,until,trusted_maintainers,sketchy_files,sketchy_file_types,release_tag,package_name,package_manager
+https://github.com/tukaani-project/xz.git,tukaani-project,xz,"2022-01-01T00:00:00Z","2023-02-01T00:00:00Z","Larhzu,web-flow","configure.ac","application","5.8.1",liblzma5,apt
+https://github.com/linux-pam/linux-pam,linux-pam,linux-pam,"2022-01-01T00:00:00Z","2023-02-01T00:00:00Z","ldv-alt,thkukuk","configure.ac","application","1.7.0",libpam-modules,apt
+https://github.com/util-linux/util-linux,util-linux,util-linux,"2022-01-01T00:00:00Z","2023-02-01T00:00:00Z","karelzak","configure.ac","application","2.41",libblkid1,apt
+https://github.com/madler/zlib,madler,zlib,"2022-01-01T00:00:00Z","2023-02-01T00:00:00Z","madler","configure.ac","application","1.3.1",zlib1g,apt
+https://github.com/mdevctl/mdevctl,mdevctl,mdevctl,"2024-01-01T00:00:00Z","2025-02-01T00:00:00Z","jonner","build.rs","application","1.4.0",mdevctl,cargo
+https://github.com/BurntSushi/ripgrep,BurntSushi,ripgrep,"2024-01-01T00:00:00Z","2025-02-01T00:00:00Z","BurntSushi","build.rs","application","14.1.1",ripgrep,cargo
